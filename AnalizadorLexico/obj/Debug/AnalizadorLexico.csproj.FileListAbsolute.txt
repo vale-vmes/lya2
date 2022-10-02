@@ -1,0 +1,30 @@
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\valem\Documents\Escuela\8vo Semestre\Lenguajes y Autómatas I\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Valeria\Downloads\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\Valeria\Downloads\Lenguajes y Autómatas\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
